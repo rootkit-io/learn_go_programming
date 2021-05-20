@@ -16,7 +16,7 @@ var y = 433
 var z int
 
 func main() {
-	// short declaration operator
+	// Short declaration operator
 	// DECLARE a variable and ASSIGN a VALUE (of a certain TYPE)
 	x := 442
 	fmt.Println(x)

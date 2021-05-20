@@ -5,9 +5,9 @@ import (
 )
 
 func main() {
-	x := 455 // we have to assign var at first by using : with =
+	x := 455 // we have to declare operator at first by using : with =
 	fmt.Println(x)
-	x = 999 // we can reassign value by just using =
+	x = 999 // we can reassign value by just using = 
 	fmt.Println(x)
 	y := 660 + 6
 	fmt.Println(y)

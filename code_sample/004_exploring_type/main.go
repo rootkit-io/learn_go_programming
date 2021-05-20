@@ -8,7 +8,7 @@ var y = 42
 // is of TYPE string
 // and I ASSIGN the value "Shaken, not stirred"
 
-var z string = "Shaken, not stirred"
+var z string = "shaken, not stirred"
 
 var a string = `Jesse said,
 "Shaken,

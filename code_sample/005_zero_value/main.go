@@ -33,4 +33,4 @@ func main() {
 //			* maps
 
 // TIPS: use short declaration as much as possible
-// * use var for zero value and package level scope
+// use var for zero value and package level scope

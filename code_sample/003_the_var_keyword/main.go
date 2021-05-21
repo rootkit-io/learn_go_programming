@@ -31,3 +31,5 @@ func main() {
 func foo() {
 	fmt.Println("again:", y)
 }
+
+// keep going

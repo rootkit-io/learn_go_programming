@@ -32,6 +32,4 @@ func main() {
 	//fmt.Printf("%T\n", z)
 }
 
-
-
-// keep going 
+// keep going

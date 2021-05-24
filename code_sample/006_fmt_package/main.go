@@ -18,8 +18,6 @@ func main() {
 	fmt.Println(s)
 }
 
-
-
 // This i've read the go documentation and implemented some code so
 // i don't think so something is there to explain
 // the link to doc is :(https://pkg.go.dev/fmt)

@@ -29,10 +29,10 @@ func main() {
 		fmt.Println("006")
 	}
 
-	if !(2 == 2){
+	if !(2 == 2) {
 		fmt.Println("007")
 	}
-	if !(2 != 2){
+	if !(2 != 2) {
 		fmt.Println("008")
 	}
 }

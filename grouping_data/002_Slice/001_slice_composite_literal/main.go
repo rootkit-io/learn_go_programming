@@ -4,9 +4,9 @@ import "fmt"
 
 func main() {
 	//x := type{value} // COMPOSITE LITERAL
-	x := []int{5,4,3,6,7}
+	x := []int{5, 4, 3, 6, 7}
 	fmt.Println(x)
-	i := []string{"fmt","dmt"}
+	i := []string{"fmt", "dmt"}
 	fmt.Println(i)
 
 }

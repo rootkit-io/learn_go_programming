@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	x := []int{4,6,7,8,2}
+	x := []int{4, 6, 7, 8, 2}
 	fmt.Println(len(x))
 	fmt.Println(x)
 	fmt.Println(x[0])

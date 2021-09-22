@@ -9,6 +9,6 @@ func main() {
 	fmt.Println(x)
 
 	y := []int{69,79,89,99}
-	x = append(x, y...)	// so what we have used a func. called varadic func.
+	x = append(x, y...)	// so what we have used a func. called variadic func.
 	fmt.Println(x)
 }

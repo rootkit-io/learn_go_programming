@@ -9,7 +9,7 @@ func main() {
 	bar("Jesse")
 	s1 := woo("DonnerBoner")
 	fmt.Println(s1)
-	a, b := tang("Jesse ", "Pinkman")
+	a, b := bang("Jesse ", "Pinkman")
 	fmt.Println(a)
 	fmt.Println(b)
 }
@@ -28,7 +28,7 @@ func woo(s string) string {
 	return fmt.Sprint("Hello from woo, ", s)
 }
 
-func tang(fn string, ln string) (string, bool) {
+func bang(fn string, ln string) (string, bool) {
 	z := fmt.Sprint(fn, ln, `, says "Hello",`)
 	b := false
 	return z, b
